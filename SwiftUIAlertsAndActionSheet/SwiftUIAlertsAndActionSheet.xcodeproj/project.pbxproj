@@ -18,6 +18,7 @@
 		23EB20A92421DB62006288C0 /* ShowingAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20A82421DB62006288C0 /* ShowingAlert.swift */; };
 		23EB20AB2421DE37006288C0 /* ShowingMultipleAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */; };
 		23EB20AD2421E090006288C0 /* AddActionsInAlertButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20AC2421E090006288C0 /* AddActionsInAlertButton.swift */; };
+		23EB20AF2421E38B006288C0 /* ShowActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20AE2421E38B006288C0 /* ShowActionSheets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		23EB20A82421DB62006288C0 /* ShowingAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingAlert.swift; sourceTree = "<group>"; };
 		23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingMultipleAlert.swift; sourceTree = "<group>"; };
 		23EB20AC2421E090006288C0 /* AddActionsInAlertButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActionsInAlertButton.swift; sourceTree = "<group>"; };
+		23EB20AE2421E38B006288C0 /* ShowActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowActionSheets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				23EB20A82421DB62006288C0 /* ShowingAlert.swift */,
 				23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */,
 				23EB20AC2421E090006288C0 /* AddActionsInAlertButton.swift */,
+				23EB20AE2421E38B006288C0 /* ShowActionSheets.swift */,
 			);
 			path = SwiftUIAlertsAndActionSheet;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				23EB20A92421DB62006288C0 /* ShowingAlert.swift in Sources */,
 				23EB20792421D915006288C0 /* AppDelegate.swift in Sources */,
 				23EB20AB2421DE37006288C0 /* ShowingMultipleAlert.swift in Sources */,
+				23EB20AF2421E38B006288C0 /* ShowActionSheets.swift in Sources */,
 				23EB20AD2421E090006288C0 /* AddActionsInAlertButton.swift in Sources */,
 				23EB207B2421D915006288C0 /* SceneDelegate.swift in Sources */,
 				23EB207D2421D915006288C0 /* ContentView.swift in Sources */,

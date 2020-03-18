@@ -10,12 +10,19 @@ import SwiftUI
 
 struct ContentView: View {
     
-    let componentsList = ["Showing alert"]
+    let componentsList = ["Showing alert","Showing multiple alert"]
     var body: some View {
         NavigationView{
             List{
                 NavigationLink(destination:ShowingAlert()){
                     Text(componentsList[0])
+                        .padding()
+                        .background(Color.blue)
+                        .foregroundColor(Color.white)
+                        .cornerRadius(10)
+                }
+                NavigationLink(destination:ShowingMultipleAlert()){
+                    Text(componentsList[1])
                         .padding()
                         .background(Color.blue)
                         .foregroundColor(Color.white)

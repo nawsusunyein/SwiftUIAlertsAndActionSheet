@@ -16,6 +16,7 @@
 		23EB20902421D91F006288C0 /* SwiftUIAlertsAndActionSheetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB208F2421D91F006288C0 /* SwiftUIAlertsAndActionSheetTests.swift */; };
 		23EB209B2421D91F006288C0 /* SwiftUIAlertsAndActionSheetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB209A2421D91F006288C0 /* SwiftUIAlertsAndActionSheetUITests.swift */; };
 		23EB20A92421DB62006288C0 /* ShowingAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20A82421DB62006288C0 /* ShowingAlert.swift */; };
+		23EB20AB2421DE37006288C0 /* ShowingMultipleAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		23EB209A2421D91F006288C0 /* SwiftUIAlertsAndActionSheetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAlertsAndActionSheetUITests.swift; sourceTree = "<group>"; };
 		23EB209C2421D91F006288C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23EB20A82421DB62006288C0 /* ShowingAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingAlert.swift; sourceTree = "<group>"; };
+		23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingMultipleAlert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				23EB20862421D91E006288C0 /* Info.plist */,
 				23EB20802421D91E006288C0 /* Preview Content */,
 				23EB20A82421DB62006288C0 /* ShowingAlert.swift */,
+				23EB20AA2421DE37006288C0 /* ShowingMultipleAlert.swift */,
 			);
 			path = SwiftUIAlertsAndActionSheet;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				23EB20A92421DB62006288C0 /* ShowingAlert.swift in Sources */,
 				23EB20792421D915006288C0 /* AppDelegate.swift in Sources */,
+				23EB20AB2421DE37006288C0 /* ShowingMultipleAlert.swift in Sources */,
 				23EB207B2421D915006288C0 /* SceneDelegate.swift in Sources */,
 				23EB207D2421D915006288C0 /* ContentView.swift in Sources */,
 			);
